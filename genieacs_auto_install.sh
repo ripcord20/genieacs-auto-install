@@ -95,3 +95,4 @@ done
 echo ""
 echo "✅ GenieACS berhasil di-install dan dijalankan di Ubuntu 20.04!"
 echo "🌐 Buka: http://<IP-SERVER>:3000 di browser kamu."
+ 
