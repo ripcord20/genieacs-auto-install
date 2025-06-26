@@ -1,4 +1,4 @@
-# GenieACS Auto Installer
+# GenieACS Auto Installer Untuk STB
 
 Script ini digunakan untuk menginstal GenieACS secara otomatis di Ubuntu.
 
