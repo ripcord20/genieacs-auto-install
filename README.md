@@ -7,4 +7,4 @@ Script ini digunakan untuk menginstal GenieACS secara otomatis di Ubuntu.
 Jalankan perintah berikut di terminal Anda:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ripcord20/genieacs-auto-install/main/genieacs_auto_install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ripcord20/genieacs-armbian20-installer/main/genieacs-armbian20-installer.sh | bash
